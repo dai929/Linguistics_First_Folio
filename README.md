@@ -1,8 +1,8 @@
-# Explore Linguistics Patterns in Early Modern English: An Exploratory Analysis of Vowel and Consonant Frequencies in Shakespeare's First Folio
+# Linguistic Patterns in Early Modern English: An Exploratory Analysis of Vowel and Consonant Frequencies in Shakespeare's First Folio
 
 ## Overview
 
-This repo analyzes the distribution of vowels and consonants in Shakespeare's First Folio, aiming to investigate linguistics patterns in Early Modern English.
+This repo analyzes the distribution of vowels and consonants in Shakespeare's First Folio, aiming to investigate linguistic patterns in Early Modern English.
 
 Large Language Models (LLM's) were not used in any way, shape, or form for the production of this paper.
 
